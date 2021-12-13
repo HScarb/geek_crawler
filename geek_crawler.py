@@ -569,7 +569,7 @@ if __name__ == "__main__":
     exclude = []
 
     # 指定好要下载的课程id
-    special = [100022301, 100026001]
+    special = []
 
     # 需要保存文件的后缀名，尽量选 .md 或者 .html
     file_type = '.md'
